@@ -15,27 +15,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-
-| | |
-|---|---|
-| 👤 **Name** | Saadi Safdar |
-| 🎓 **Degree** | BSc Computer Science · 2024 – 2028 |
-| 📍 **Location** | Pakistan 🇵🇰 · UTC+5 |
-| 💼 **Role** | CS Student & Developer |
-| 🔭 **Building** | Python · Web Dev · Computer Vision |
-| 🤝 **Open To** | Internships · Collabs · Open Source |
-| 🎥 **Also** | Content Creator on YouTube · AI Enthusiast |
-| 📧 **Contact** | [saadisafder@yahoo.com](mailto:saadisafder@yahoo.com) |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -85,8 +64,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
-
----
 
 ## 📊 GitHub Statistics
 
