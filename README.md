@@ -1,19 +1,3 @@
-## 🌍 Find Me Around the Web
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MixedAIFeed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadisafdar)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/saadisafdar1)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/saadisafdar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saadisafdar/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Efficient-Word1384/)
-[![TikTok](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@saadisafdar)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/saadisafder)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@saadisafdar)
-
-</div>
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -40,16 +24,18 @@
 
 </div>
 
-## 📊 GitHub Statistics
+## 🌍 Find Me Around the Web
 
 <div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saadisafdar&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadisafdar&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@MixedAIFeed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadisafdar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/saadisafdar1)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/saadisafdar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saadisafdar/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Efficient-Word1384/)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@saadisafdar)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/saadisafder)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@saadisafdar)
 
 </div>
