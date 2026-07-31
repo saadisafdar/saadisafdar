@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack & Skills
+## ⚙️ What I Build With
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 </div>
 
-## 🌍 Find Me Around the Web
+## 🌐 My Social Hub
 
 <div align="center">
 
